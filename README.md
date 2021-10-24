@@ -4,4 +4,5 @@
 - Daimonds price prediction (writeUp) [click here](https://github.com/renad-albishri/Regression_Project/blob/main/write_up_diamonds.md)
 - Daimonds price prediction using regression model [click here](https://github.com/renad-albishri/Regression_Project/blob/main/Diamonds_price_regression.ipynb)
 - Daimonds price prediction (pdf) [click here](https://github.com/renad-albishri/Regression_Project/blob/main/Diamonds_price_prediction.pdf)
+- Diamonds web scraping [click here](https://github.com/renad-albishri/Regression_Project/blob/main/Diamonds_webscraping.ipynb)
 
