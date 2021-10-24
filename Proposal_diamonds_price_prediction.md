@@ -20,13 +20,13 @@ In this project We will obtain our dataset for this study by scraping data from 
 Target: Diamonds price
 
 Features: 
--id: id of the products
+- id: unique id of the products
 - Shape: outline shape of the diamond
 - Color: Diamond color 
 - Clarity:is a measure of the purity and rarity of the stone 
 - Cut:is a style or design guide used when shaping a diamond for polishing
 - Carat: specific unit of measurement used to specify the weight of a diamond
-- LW:Length-to-Width Ratio –The length-to-width ratio compares the length of a diamond to its width to show how elongated a fancy-shaped diamond appears when viewed from the top.
+- LW:Length-to-Width Ratio compares the length of a diamond to its width to show how elongated a fancy-shaped diamond appears when viewed from the top.
 - Type: types of the diamond (natural,lab)
 - Report:certificate of diamond
 - Price: The original price.
