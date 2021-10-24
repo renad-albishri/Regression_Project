@@ -14,7 +14,7 @@ Diamonds belonge to a unique class of product, In this project, we are going to 
 ### Data Collection
 
 In this project We will obtain our dataset for this study by scraping data from an online website that offers one of the largest collections of diamonds available for sale.
-- Web scraping from website https://www.brilliantearth.com/loose-diamonds/search/
+- Web scraping from website https://www.brilliantearth.com/
 - Sample size is 119,000 rows and 10 features.
 
 Target: Diamonds price
