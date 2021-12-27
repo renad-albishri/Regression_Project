@@ -1,4 +1,4 @@
-# Regression_Project
+# Diamonds Price Prediction
 This project is done during SDAIA Academy bootcamp of Data Science and AI, in collaboration with [Eman Alshehri](https://github.com/emanalshehrii).
 # About the repository:
 - Project proposal [ click here ](https://github.com/renad-albishri/Regression_Project/blob/main/Proposal_diamonds_price_prediction.md)
